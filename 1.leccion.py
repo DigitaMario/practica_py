@@ -10,3 +10,4 @@ numero_entero =250
 numero_entero =250
 num = numero_decimal + numero_entero
 print(num)
+print('programacion 2022')
